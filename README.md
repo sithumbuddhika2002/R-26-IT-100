@@ -69,11 +69,4 @@ LunuNeth addresses exactly this gap by:
 - Unifying separate ML predictions under a contextual micro-climate framework (linking weather, crop location, and observed symptoms into a cohesive diagnostic).
 
 ---
-## 📄 Documentation
 
-For an in-depth understanding of the algorithms, data annotation protocols, theoretical implementations, validation techniques, and research gaps addressed, refer to the individual Proposal Reports located locally at the root of the repository.
-
-1. `Proposal_Report_PurpleBlotch.md`
-2. `Proposal_Report_PestDetection.md`
-3. `Proposal_Report_Chatbot.md`
-4. `Proposal_Report_NutrientDeficiency.md`
